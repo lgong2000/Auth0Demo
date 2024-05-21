@@ -13,3 +13,6 @@
 
 ## Version 1
 Auth0(OKTA) - OAuth2 Login and Logout
+
+## Version 2
+Get OIDC Claims
